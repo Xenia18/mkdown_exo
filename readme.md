@@ -14,9 +14,9 @@ Oui! c'est selon mon humeur, en *italique* ou en **gras** voire les ***deux***.
 2. dernière
 3. est ordonnée
 
-Voici un peu 'de code' au milieu d'une phrase.
+Voici un peu `de code` au milieu d'une phrase.
 
-'''
+```
 Ceci un bloc de code
-'''
-Et pour finir, voici [un lien](https://guides.github.com/features/mastering-markdown/) pour devenir un as du Markdown.
+```
+Et pour finir, voici [un lien](https://guides.github.com/features/mastering-markdown/) pour devenir un as du Markdow.
