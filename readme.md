@@ -20,3 +20,4 @@ Voici un peu `de code` au milieu d'une phrase.
 Ceci un bloc de code
 ```
 Et pour finir, voici [un lien](https://guides.github.com/features/mastering-markdown/) pour devenir un as du Markdow.
+C'est tout pour les bases du Markdown.
